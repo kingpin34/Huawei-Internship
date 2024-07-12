@@ -21,7 +21,17 @@ print(
       |  so,what is the secret     |
       | number?                    |
       +============================+
-    """)
+    """
+)
+secret_number=722
+number=int(input("please enter your guessed number:"))
+while number != secret_number:
+    print("ha ha you are stuck in my loop")
+    number=int(input("please enter your guessed number:"))
+print(secret_number,"well done you are free now!!" )    
+    
+    
+    
 
     
 
