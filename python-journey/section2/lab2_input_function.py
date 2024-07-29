@@ -1,0 +1,5 @@
+fname=input("May i have your firstname please?")
+lname=input("May i have your second name as well?")
+print("Thank You")
+print("\n Your fullname then will be :",fname +" "+ lname)
+print()
