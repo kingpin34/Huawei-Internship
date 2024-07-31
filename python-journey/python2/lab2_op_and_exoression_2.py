@@ -10,10 +10,3 @@
 # min= min % 60
 # Hour= Hour % 24
 # print("your end time for this activity is ", Hour ,":" ,min, sep="")
-x = int(input())
-y = int(input())
- 
-x = x / y
-y = y / x
- 
-print(y)
