@@ -24,4 +24,4 @@ if __name__ =="__main__":
      My_list=[i+1 for i in range(5)]
      print(sum1(My_list) == 15)
      print(prod1(My_list) ==120)
-     print(My_list)
+    #  print(My_list)
