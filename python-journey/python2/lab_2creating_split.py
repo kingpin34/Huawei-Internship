@@ -18,3 +18,4 @@ def mysplit(strng):
     return(my_list)           
     
 print(mysplit("To God be, The Glory"))
+
