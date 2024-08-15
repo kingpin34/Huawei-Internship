@@ -12,8 +12,8 @@ object_1=ballot(2)# object1_1 has two properties(first_key and second_key)
 object_1.pull(1) 
 object_2=ballot(3)# object_2 has one attribute(first_key)
 object_3=ballot(4)
-object_3. third =5 #object_3 has two attributes also but the second attribute was not defined by a method and its pemissible
-# the attributes being (first_key and third)
+object_3.third =5 #object_3 has two attributes also but the second attribute was not defined by a method and its pemissible
+# the attributes being (first_key and)
 
 print(object_1.__dict__)
 print(object_2.__dict__)
